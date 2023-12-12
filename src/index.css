@@ -1,0 +1,5 @@
+#root {
+  min-height: 100vh;
+  min-width: 100vw;
+  background: linear-gradient(0deg, rgba(200,254,255,1) 0%, rgba(253,230,255,1) 100%);
+}
