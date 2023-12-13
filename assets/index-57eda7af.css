@@ -1,0 +1,1 @@
+.socials :hover{opacity:.5}.contact-form{min-width:350px}.skills,.info,.projects{max-width:350px}@media screen and (min-width : 600px){.contact-form{min-width:700px}.skills{min-width:8000px}.info{max-width:800px}.projects{max-width:800}}#root{min-height:100vh;min-width:100vw;background:linear-gradient(0deg,rgba(200,254,255,1) 0%,rgba(253,230,255,1) 100%)}
